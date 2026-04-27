@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Main {
     public static void main(String[] args) {
         StudentService service = new StudentService();
@@ -8,3 +9,6 @@ public class Main {
         service.displayStudents();
     }
 }
+=======
+
+>>>>>>> 18d9f6dc5016db6ee2a8b0ff59e6fdacd6193f48
